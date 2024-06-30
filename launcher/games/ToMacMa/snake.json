@@ -1,0 +1,9 @@
+{
+    "name": "snake",
+    "author": "ToMacMa",
+    "installPath": "./games/ToMacMa/snake/",
+    "downloadUrl": "",
+    "description": "snake game",
+    "displayTitle": "Snake",
+    "runFile": "./games/ToMacMa/snake/main.py"
+}

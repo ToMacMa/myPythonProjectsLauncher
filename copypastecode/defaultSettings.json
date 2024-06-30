@@ -1,0 +1,24 @@
+{
+    "programSettings": {
+        "languages": [
+            "english"
+        ],
+        "default-language": "english",
+        "custom-update-settings": {
+            "update-only": [
+                "all"
+            ],
+            "update-automatically-when": {
+                "not-on-newest-version": true,
+                "missing-certain-files": [
+                    "setup.py",
+                    "main.py",
+                    "copyFiles/tkWindowNoContent.txt",
+                    "copyFiles/tkWindowWithBtn.txt",
+                    "copyFiles/tkWindowWithLabel.txt",
+                    "requiredData.json"
+                ]
+            }
+        }
+    }
+}

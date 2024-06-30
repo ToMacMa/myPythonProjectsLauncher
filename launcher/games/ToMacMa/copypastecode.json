@@ -1,0 +1,9 @@
+{
+    "name": "copypastecode",
+    "author": "ToMacMa",
+    "installPath": "./games/ToMacMa/copypastecode/",
+    "downloadUrl": "",
+    "description": "Code to copy and paste",
+    "displayTitle": "CopyPasteCode",
+    "runFile": "../copypastecode/main.py"
+}

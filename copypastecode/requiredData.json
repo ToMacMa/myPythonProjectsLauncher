@@ -1,0 +1,13 @@
+{
+    "version": "0.1",
+    "versionType": "pre-alpha",
+    "pythonLibraries": [
+        "tkinter",
+        "requests",
+        "json",
+        "clipboard"
+    ],
+    "requiredDowloads": [
+        "https://raw.githubusercontent.com/ToMacMa/CopyAndPastePythonCode/main/main.py"
+    ]
+}

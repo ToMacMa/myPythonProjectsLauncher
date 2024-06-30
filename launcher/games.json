@@ -1,0 +1,14 @@
+{
+    "games":
+    [
+        {   "name": "snake",
+            "installPath": "./games/ToMacMa/snake.json",
+            "downloadUrl": ""
+        }
+        ,
+        {   "name": "copypastecode",
+            "installPath": "./games/ToMacMa/copypastecode.json",
+            "downloadUrl": ""
+        }
+    ]
+}
